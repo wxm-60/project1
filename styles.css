@@ -4,6 +4,28 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.jumbotron1 {
+    background-attachment: fixed;
+    background-image: url(banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron2 {
+    background-attachment: fixed;
+    background-image: url(hz3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron3 {
+    background-attachment: fixed;
+    background-image: url(food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .navbar-collapse {
     flex-basis: 100%;
     flex-grow: 1; 
@@ -23,4 +45,8 @@
     background-color:skyblue;
     border-color: skyblue;
     font-style: italic;
+}
+
+.star{
+    color:maroon
 }
