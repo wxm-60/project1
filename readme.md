@@ -1,3 +1,4 @@
 # project 1 for KIEI451
 
-Hangzhou is my beloved hometown
+I wanted to make this website because Hangzhou is my hometown.
+live at https://wxm.netlify.app/
